@@ -23,7 +23,7 @@ This project explores the relationship between environmental and health factors 
 ---
 
 ## Technologies Used
-- **Programming Languages**: Python, R
+- **Programming Languages**: Python
 - **Libraries**: TensorFlow, Keras, Numpy, Pandas, Matplotlib, Seaborn
 - **Machine Learning Techniques**: Bidirectional LSTM, PCA, SVR, Linear Regression
 - **Tools**: Jupyter Notebook, Google Colab
