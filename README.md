@@ -29,3 +29,13 @@ This project explores the relationship between environmental and health factors 
 - **Tools**: Jupyter Notebook, Google Colab
 
 ---
+
+
+---
+
+## 👤 Author
+
+**Aarushi Kotwani**
+Data-driven professional passionate about solving real-world problems with scalable, data-centric solutions.
+
+- GitHub: [@aarushikot](https://github.com/aarushikot)
